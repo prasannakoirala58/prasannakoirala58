@@ -42,10 +42,10 @@ I'm a Software Engineer who is passionate about constructing servers and special
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" style="max-width: 100%;">
    </a>
    <a href="https://graphql.org/" target="_blank" rel="noopener noreferrer">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="GraphQL" width="40" height="40" style="max-width: 100%;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" alt="GraphQL" width="40" height="40" style="max-width: 100%;">
    </a>
    <a href="https://aws.amazon.com/" target="_blank" rel="noopener noreferrer">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40" style="max-width: 100%;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" style="max-width: 100%;">
    </a>
    <a href="https://www.netlify.com/" target="_blank" rel="noopener noreferrer">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" alt="Netlify" width="40" height="40" style="max-width: 100%;">
@@ -56,9 +56,9 @@ I'm a Software Engineer who is passionate about constructing servers and special
    <a href="https://cloud.google.com/" target="_blank" rel="noopener noreferrer">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="40" height="40" style="max-width: 100%;">
    </a>
-   <a href="https://www.apollographql.com/" target="_blank" rel="noopener noreferrer">
+<!--    <a href="https://www.apollographql.com/" target="_blank" rel="noopener noreferrer">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apollographql/apollographql-original.svg" alt="Apollo GraphQL" width="40" height="40" style="max-width: 100%;">
-   </a>
+   </a> -->
    <a href="https://expressjs.com/" target="_blank" rel="noopener noreferrer">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40" height="40" style="max-width: 100%;">
    </a>
@@ -66,7 +66,7 @@ I'm a Software Engineer who is passionate about constructing servers and special
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="NPM" width="40" height="40" style="max-width: 100%;">
    </a>
    <a href="https://nestjs.com/" target="_blank" rel="noopener noreferrer">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="40" height="40" style="max-width: 100%;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="NestJS" width="40" height="40" style="max-width: 100%;">
    </a>
    <a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" style="max-width: 100%;">
