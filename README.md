@@ -18,10 +18,10 @@ I'm a Software Engineer who is passionate about constructing servers and special
 </h1>
 <p dir="auto">
    <a href="https://www.instagram.com/prasannak14/" rel="nofollow">
-   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&amp;logoColor=white" alt="Instagram" style="max-width: 100%;">
+      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&amp;logoColor=white" alt="Instagram" style="max-width: 100%;">
    </a> 
    <a href="https://www.linkedin.com/in/prasanna-koirala-51ba09218/" rel="nofollow">
-   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white" alt="LinkedIn" style="max-width: 100%;">
+      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white" alt="LinkedIn" style="max-width: 100%;">
    </a> 
 </p>
 
@@ -33,15 +33,63 @@ I'm a Software Engineer who is passionate about constructing servers and special
 
 <p dir="auto">
    <a href="https://www.javascript.com/" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" style="max-width: 100%;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="max-width: 100%;">
    </a>
    <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" style="max-width: 100%;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" style="max-width: 100%;">
    </a>
    <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" style="max-width: 100%;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" style="max-width: 100%;">
    </a>
-   <a href="https://graphql.org/" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL" style="max-width: 100%;">
+      <a href="https://graphql.org/" target="_blank" rel="noopener noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="GraphQL" width="40" height="40" style="max-width: 100%;">
    </a>
-   <a href="https
+   <a href="https://aws.amazon.com/" target="_blank" rel="noopener noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40" style="max-width: 100%;">
+   </a>
+   <a href="https://www.netlify.com/" target="_blank" rel="noopener noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" alt="Netlify" width="40" height="40" style="max-width: 100%;">
+   </a>
+   <a href="https://vercel.com/" target="_blank" rel="noopener noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="Vercel" width="40" height="40" style="max-width: 100%;">
+   </a>
+   <a href="https://cloud.google.com/" target="_blank" rel="noopener noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="40" height="40" style="max-width: 100%;">
+   </a>
+   <a href="https://www.apollographql.com/" target="_blank" rel="noopener noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apollographql/apollographql-original.svg" alt="Apollo GraphQL" width="40" height="40" style="max-width: 100%;">
+   </a>
+   <a href="https://expressjs.com/" target="_blank" rel="noopener noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40" height="40" style="max-width: 100%;">
+   </a>
+   <a href="https://www.npmjs.com/" target="_blank" rel="noopener noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="NPM" width="40" height="40" style="max-width: 100%;">
+   </a>
+   <a href="https://nestjs.com/" target="_blank" rel="noopener noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="40" height="40" style="max-width: 100%;">
+   </a>
+   <a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" style="max-width: 100%;">
+   </a>
+   <a href="https://www.nginx.com/" target="_blank" rel="noopener noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40" style="max-width: 100%;">
+   </a>
+   <a href="https://socket.io/" target="_blank" rel="noopener noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" alt="Socket.io" width="40" height="40" style="max-width: 100%;">
+   </a>
+   <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" style="max-width: 100%;">
+   </a>
+   <a href="https://redis.io/" target="_blank" rel="noopener noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="40" height="40" style="max-width: 100%;">
+   </a>
+   <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" style="max-width: 100%;">
+   </a>
+   <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" style="max-width: 100%;">
+   </a>
+</p>
+
+<!-- Tech stack / End -->
+
