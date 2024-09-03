@@ -17,9 +17,6 @@ I'm a Software Engineer who is passionate about constructing servers and special
    </a>
 </h1>
 <p dir="auto">
-   <a href="https://www.instagram.com/prasannak14/" rel="nofollow">
-      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&amp;logoColor=white" alt="Instagram" style="max-width: 100%;">
-   </a> 
    <a href="https://www.linkedin.com/in/prasanna-koirala-51ba09218/" rel="nofollow">
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white" alt="LinkedIn" style="max-width: 100%;">
    </a> 
