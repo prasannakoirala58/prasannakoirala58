@@ -90,6 +90,10 @@ I'm a Software Engineer who is passionate about constructing servers and special
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" 
        alt="Kubernetes" width="40" height="40" style="max-width: 100%;">
    </a>
+   <a href="https://www.postman.com/" target="_blank" rel="noopener noreferrer">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" 
+          alt="Postman" width="40" height="40" style="max-width: 100%;">
+   </a>
 </p>
 
 <!-- Tech stack / End -->
