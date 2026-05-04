@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&width=700&lines=Hi+there%2C+I'm+Prasanna+%F0%9F%91%8B;Software+Engineer;Backend+%26+Full-Stack+Builder)](https://git.io/typing-svg)
 
-I'm a Software Engineer who loves building robust servers and beautiful interfaces. My focus extends beyond code — it's about creating technology that elevates individuals and contributes to the building of thriving communities.
+I'm a Software Engineer who loves building robust servers and beautiful interfaces. Beyond the code, I care about creating technology that actually makes a difference for people.
 
 <br>
 
@@ -12,9 +12,3 @@ I'm a Software Engineer who loves building robust servers and beautiful interfac
 ## 💻 Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,py,nodejs,express,nestjs,graphql,socketio,nginx,postgres,mongodb,redis,aws,gcp,docker,k8s,vercel,postman&perline=9)](https://skillicons.dev)
-
-<br>
-
-## 🎵 Now Playing on Spotify
-
-[![Spotify](https://spotify-github-profile.kittinan.com/wrap/user/SPOTIFY_USER_ID?theme=natemoo-re&media_type=activity&background_color=121212&interchange=0&cover_image=1&autoplay=0&hide_cover=0)](https://spotify-github-profile.kittinan.com/wrap/user/SPOTIFY_USER_ID?theme=natemoo-re&media_type=activity&background_color=121212&interchange=0&cover_image=1&autoplay=0&hide_cover=0)
