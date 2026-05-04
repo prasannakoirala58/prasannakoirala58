@@ -11,7 +11,7 @@ I'm a Software Engineer who loves building robust servers and beautiful interfac
 
 ### 💻 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,py,nodejs,express,nestjs,graphql,nginx,postgres,mongodb,redis,aws,gcp,docker,k8s,digitalocean,grafana,vercel,postman&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,py,nodejs,express,nestjs,graphql,nginx,postgres,mysql,mongodb,redis,wordpress,p5js,aws,gcp,docker,k8s,digitalocean,grafana,vercel,postman&perline=11)](https://skillicons.dev)
 
 <br>
 
@@ -21,6 +21,10 @@ I'm a Software Engineer who loves building robust servers and beautiful interfac
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
 
 <br>
+
+![status](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.lanyard.rest%2Fv1%2Fusers%2FDISCORD_ID&query=%24.data.discord_status&label=currently&style=flat-square&color=brightgreen)
+![spotify](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.lanyard.rest%2Fv1%2Fusers%2FDISCORD_ID&query=%24.data.listening_to_spotify&label=listening+to+spotify&style=flat-square&logo=spotify&color=1DB954)
+![vscode](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.lanyard.rest%2Fv1%2Fusers%2FDISCORD_ID&query=%24.data.activities%5B0%5D.name&label=coding&style=flat-square&logo=visualstudiocode&color=007ACC)
 
 ![Now Playing](https://img.shields.io/badge/-🎵_Now_Playing-1DB954?style=for-the-badge&logo=spotify&logoColor=white)
 
