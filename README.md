@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&width=700&lines=Hi+there%2C+I'm+Prasanna+%F0%9F%91%8B;Software+Engineer;Backend+%26+Full-Stack+Builder)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&width=750&lines=Hi%2C+I'm+Prasanna+%F0%9F%91%8B;Software+Engineer;AI+Engineer;I+build+complex%2C+scalable+applications;Working+across+the+full+stack;Frontend+%26+Backend+%7C+Cloud+%26+DevOps;Turning+ideas+into+real+products)](https://git.io/typing-svg)
 
 I'm a Software Engineer who loves building robust servers and beautiful interfaces. Beyond the code, I care about creating technology that actually makes a difference for people.
 
