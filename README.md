@@ -12,3 +12,9 @@ I'm a Software Engineer who loves building robust servers and beautiful interfac
 ## 💻 Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,py,nodejs,express,nestjs,graphql,socketio,nginx,postgres,mongodb,redis,aws,gcp,docker,k8s,vercel,postman&perline=9)](https://skillicons.dev)
+
+<br>
+
+## 🎵 Now Playing on Spotify
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31sni236ogkqrbpcrsaldolzkypm&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31sni236ogkqrbpcrsaldolzkypm&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false)
