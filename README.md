@@ -11,7 +11,7 @@ I'm a Software Engineer who loves building robust servers and beautiful interfac
 
 ### 💻 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,py,react,nextjs,tailwind,threejs,p5js,nodejs,express,nestjs,graphql,nginx,rabbitmq,postgres,mongodb,redis,wordpress,pug,aws,gcp,docker,k8s,digitalocean,grafana,prometheus,vercel,npm,pnpm,notion,postman,tensorflow&perline=11)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,py,react,nextjs,tailwind,threejs,p5js,nodejs,express,nestjs,graphql,nginx,rabbitmq,kafka,postgres,mongodb,redis,wordpress,pug,aws,gcp,docker,k8s,jest,grafana,prometheus,vercel,npm,pnpm,notion,postman,tensorflow&perline=11)](https://skillicons.dev)
 
 <br>
 
