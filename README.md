@@ -9,7 +9,7 @@ I'm a Software Engineer who loves building robust servers and beautiful interfac
 
 <br>
 
-### 💻 Tech Stack
+## 💻 Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,py,react,tailwind,threejs,p5js,nodejs,express,nestjs,graphql,jest,postman,nginx,pug,wordpress,rabbitmq,kafka,redis,mongodb,postgres,aws,gcp,docker,k8s,grafana,prometheus,terraform,vercel,npm,pnpm,notion,tensorflow&perline=11)](https://skillicons.dev)
 
@@ -17,4 +17,4 @@ I'm a Software Engineer who loves building robust servers and beautiful interfac
 
 ![Now Playing](https://img.shields.io/badge/-🎵_Now_Playing-1DB954?style=for-the-badge&logo=spotify&logoColor=white)
 
-![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31sni236ogkqrbpcrsaldolzkypm&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false)
+![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31sni236ogkqrbpcrsaldolzkypm&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=1DB954)
