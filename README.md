@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alumni+Sans+SC&weight=600&size=32&duration=3000&pause=1000&color=58A6FF&width=750&lines=Hi%2C+I'm+Prasanna+%F0%9F%91%8B;Software+Engineer;Full+Stack+%7C+AI+%7C+DevOps;Working+Across+the+Stack+%26+the+AI+Realm;Building+Complex%2C+Scalable+Things;From+Servers+to+Models+%E2%80%94+I+Ship+It+All)](https://git.io/typing-svg)
 
-I'm a Software Engineer who loves building robust servers and beautiful interfaces. Beyond the code, I care about creating technology that actually makes a difference for people.
+I'm a Software Engineer who loves building robust servers, beautiful interfaces, and intelligent systems. Beyond the code, I care about creating technology that actually makes a difference for people.
 
 <br>
 
